@@ -4,7 +4,7 @@ subtitle: "From Harvard's Dataverse"
 author: "Chase Mathis"
 execute: 
   warning: false
-format: html
+format: pdf
 editor: visual
 ---
 
