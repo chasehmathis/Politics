@@ -1,0 +1,17 @@
+---
+title: "Growing Polarization Shown Through the Supreme Court"
+author: "Chase Mathis"
+format: pdf
+execute: 
+  warning: false
+  message: false
+editor: visual
+---
+
+## Import Packages/Data
+
+```{r}
+library(tidyverse)
+library(tidymodels)
+library(knitr)
+```
