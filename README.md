@@ -1,6 +1,6 @@
-# Is There Growing Polarization in America?
+# General Political Data Analysis
 
-## Seen Through Presidential Election Data
+## Past Election Data and Growing Polarization in USA
 
 [![](https://static01.nyt.com/images/2014/06/12/upshot/12up-polarization-illu/12up-polarization-illu-superJumbo.jpg)](https://static01.nyt.com/images/2014/06/12/upshot/12up-polarization-illu/12up-polarization-illu-superJumbo.jpg)
 
